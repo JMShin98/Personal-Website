@@ -1,0 +1,26 @@
+html { 
+  background: url(../images/bg1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+.main {
+	width: 500px;
+	height: 500px;
+	padding: 10px;
+	color: white;
+	margin: 0 auto;
+	margin-top: 100px;
+	background: rgba(0,0,0,0.5);
+}
+
+.social-media {
+	font-size: 40px;
+}
+
+.social-media a {
+	color: white;
+}
