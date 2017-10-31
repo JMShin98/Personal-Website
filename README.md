@@ -1,2 +1,2 @@
 # Personal-Website
-Website with information about me.
+Website about me.
